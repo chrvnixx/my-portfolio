@@ -1,8 +1,31 @@
-# React + Vite
+# Adeola Adekola Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A recruiter-focused developer portfolio built with React, React Router, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Multi-page navigation with project case studies
+- Dark mode with light mode support and persisted theme preference
+- Responsive layout with subtle motion and reusable UI components
+- Recruiter-friendly content hierarchy designed for quick scanning
+
+## Tech Stack
+
+- React + Vite
+- React Router
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
